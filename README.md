@@ -1,13 +1,6 @@
 # Magic-Square-C-plus-plus-task
 This is a c++ code for solving a magic square of any input size.
 
-https://img.icons8.com/ios/50/000000/email-open.png
-## <img src="email.png" width="20"/> Contact:
-If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
-
-
 # Magic Square Solver Using 2D Pointers
 
 This program solves a magic square using 2-D pointers. It prompts the user for the dimension of the magic square and solves it for the given dimension. Proper memory allocation and deallocation are handled within the code. For more details, please refer to the attached `magic-square.pdf` file.
@@ -29,6 +22,11 @@ In this example, the sum of each row, column, and diagonal is 15.
 ## Algorithm Used: Loubere's Algorithm
 
 To construct the magic square, we use **Loubere's algorithm**. The details of this algorithm are described in the `magic-square.pdf` file.
+
+## <img src="email.png" width="20"/> Contact:
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
 
 ### Program Features:
 - Asks the user for the dimension of the magic square.
