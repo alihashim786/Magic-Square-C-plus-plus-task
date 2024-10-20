@@ -1,8 +1,8 @@
 # Magic-Square-C-plus-plus-task
 This is a c++ code for solving a magic square of any input size.
 
-https://img.icons8.com/ios/50/000000/email-open.png
-## <img src="https://images.app.goo.gl/JjRext4MwcRVdw616" width="20"/> Contact:
+
+## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
 If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
