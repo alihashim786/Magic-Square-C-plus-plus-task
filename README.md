@@ -23,14 +23,14 @@ In this example, the sum of each row, column, and diagonal is 15.
 
 To construct the magic square, we use **Loubere's algorithm**. The details of this algorithm are described in the `magic-square.pdf` file.
 
-## <img src="email.png" width="20"/> Contact:
-If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
-
 ### Program Features:
 - Asks the user for the dimension of the magic square.
 - Solves the magic square for the given dimension.
 - Handles dynamic memory allocation and deallocation efficiently.
 
 For a more detailed explanation of the algorithm and implementation, please refer to the attached `magic-square.pdf`.
+
+## <img src="email.png" width="20"/> Contact:
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
